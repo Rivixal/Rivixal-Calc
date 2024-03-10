@@ -1,0 +1,54 @@
+C:\Users\Rog STRIX\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\Rog STRIX\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\Rog STRIX\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\Rog STRIX\source\repos\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\Rog STRIX\source\repos\calc\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rog STRIX\source\repos\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\Rog STRIX\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Rog STRIX\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Rog STRIX\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Rog STRIX\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\Rog STRIX\source\repos\calc\calc\obj\Debug\calc.pdb
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\bin\Debug\calc.exe.config
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\bin\Debug\calc.exe
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\bin\Debug\calc.pdb
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\obj\Debug\calc.exe
+C:\Users\Mayplanet\Downloads\Telegram Desktop\calc\calc\obj\Debug\calc.pdb
+D:\calc\calc\bin\Debug\tcalc.exe.config
+D:\calc\calc\bin\Debug\tcalc.exe
+D:\calc\calc\bin\Debug\tcalc.pdb
+D:\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+D:\calc\calc\obj\Debug\calc.Form1.resources
+D:\calc\calc\obj\Debug\tcalc.Properties.Resources.resources
+D:\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+D:\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+D:\calc\calc\obj\Debug\tcalc.exe
+D:\calc\calc\obj\Debug\tcalc.pdb
+D:\calc\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+D:\Languange\C#\calc\calc\bin\Debug\tcalc.exe.config
+D:\Languange\C#\calc\calc\bin\Debug\tcalc.exe
+D:\Languange\C#\calc\calc\bin\Debug\tcalc.pdb
+D:\Languange\C#\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+D:\Languange\C#\calc\calc\obj\Debug\calc.Form1.resources
+D:\Languange\C#\calc\calc\obj\Debug\tcalc.Properties.Resources.resources
+D:\Languange\C#\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+D:\Languange\C#\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+D:\Languange\C#\calc\calc\obj\Debug\tcalc.exe
+D:\Languange\C#\calc\calc\obj\Debug\tcalc.pdb
+D:\Languange\Old\C#\calc\calc\bin\Debug\tcalc.exe.config
+D:\Languange\Old\C#\calc\calc\bin\Debug\tcalc.exe
+D:\Languange\Old\C#\calc\calc\bin\Debug\tcalc.pdb
+D:\Languange\Old\C#\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+D:\Languange\Old\C#\calc\calc\obj\Debug\tcalc.about.resources
+D:\Languange\Old\C#\calc\calc\obj\Debug\calc.Form1.resources
+D:\Languange\Old\C#\calc\calc\obj\Debug\tcalc.Properties.Resources.resources
+D:\Languange\Old\C#\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+D:\Languange\Old\C#\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+D:\Languange\Old\C#\calc\calc\obj\Debug\tcalc.exe
+D:\Languange\Old\C#\calc\calc\obj\Debug\tcalc.pdb
